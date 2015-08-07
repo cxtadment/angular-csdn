@@ -1,4 +1,4 @@
-angular-gist-snippet
+angular-csdn-snippet
 ============
 
 AngularJS directive for embedding CSDN snippet.
